@@ -1,0 +1,3 @@
+Nom : requirements.txt
+Contenu :
+python-telegram-bot==20.7
